@@ -1,0 +1,38 @@
+
+.container{
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    background-image: linear-gradient(#bd09b7,#6b4cf5);
+    box-shadow: 100px 50px 120px rgba(0, 9, 112, 0.5);
+    
+}
+p{
+    color: aliceblue;
+    font-size: xx-large;
+    margin-top: 3px;
+}
+
+.text{
+    color: aliceblue;
+    font-size: medium;
+    padding: 7px;
+    font-display: top;
+    display: table-caption;
+    width: 100%;
+}
+
+.terms{
+    font-size: medium;
+    align-self: right;
+    color: aliceblue;
+}
+.send{
+    text-align: right;
+    color: aliceblue;
+    font-size: xx-large;
+    padding: 5px 15px;
+    
+}
+
